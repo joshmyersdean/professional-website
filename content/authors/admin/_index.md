@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Josh Myers-Dean
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,25 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Student, Researcher, Web Developer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Western Washington Univeristy
   url: ""
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer Vision
+- Complex Systems
+- Bioinformatics
+- Theoretical Computer Science
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Computer Science, Minor in Mathematics
+    institution: Western Washington University
+    year: Expected Spring 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +37,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: "mailto:myersdj@wwu.edu"  # For a direct email link, use "mailto:test@example.org".
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/joshmyersdean
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/in/joshmyersdean
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,7 +62,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am an undergraduate student at Western Washington University studying computer science. My research experience has primarily been in computer vision, computing education, and bioinformatics; however I am also interested in the more theoretical aspects of computer science. I really enjoy seeing all the intersections of math and computer science. I currently work as a web developer and research assistant while most of my free time includes trail running, biking, and bread making. I am currently looking for graduate programs to start in fall 2021.
